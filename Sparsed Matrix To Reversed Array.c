@@ -93,7 +93,7 @@ a[8].timi=1;
 }
 
 
-// INITIAL SPARSE MATRIX
+// INITIAL SPARSE MATRIX ----> 6X6 Table with 8 Non 0 values
 // |10,  0, 0, 5, 0,  0|
 // | 0,  0, 2, 0, 0 , 0|
 // | 0, 12, 0, 0, 0 , 0|   
@@ -103,7 +103,7 @@ a[8].timi=1;
 
 
 // FROM INITIAL SPARSE MATRIX TO DATA STRUCTURE:
-// a[0]: grammi = 6, stili = 6, timi = 8
+// a[0]: grammi = 6, stili = 6, timi = 8  ----> 6X6 Table with 8 Non 0 values
 // a[1]: grammi = 0, stili = 0, timi = 10
 // a[2]: grammi = 0, stili = 3, timi = 5
 // a[3]: grammi = 1, stili = 2, timi = 2
